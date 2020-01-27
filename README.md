@@ -13,7 +13,7 @@ Team members: Harri Nupponen, Valtteri Nummi, Topi Nummi
 - The color sensor detects the rgb-values
 - The servo directs the "ordered" candies to the other side and the "non-ordered" candies to the other side.
 
-Check out the video:
+Check out the video (In finnish. I have ordered 1 red, 2 greens and 3 blues, according to the UI-image below):
 https://youtu.be/FscnV3nYT_Y
 
 ## The UI
