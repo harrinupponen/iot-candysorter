@@ -8,5 +8,5 @@ This was (actually still developing this) a school project on an experimental Io
 - Arduino IDE
 
 ## The UI
-![CS-UI](https://github.com/harrinupponen/iot-candysorter/blob/master/img/cs-ui2.PNG "CS-UI")
+![CS-UI](https://github.com/harrinupponen/iot-candysorter/blob/master/img/cs-ui2.png "CS-UI")
 
