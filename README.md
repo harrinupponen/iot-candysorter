@@ -7,6 +7,7 @@ Team members: Harri Nupponen, Valtteri Nummi, Topi Nummi
 - TCS34725 Color Sensor
 - Servo
 - Arduino IDE
+- Blynk-app for the UI
 
 ## How it works
 - You can choose red, green and blue candies from the UI. Amount between 0-5 each.
