@@ -1,6 +1,7 @@
 # IoT Candy Sorter
 ## General Info
 This was (actually still developing this) a school project on an experimental IoT-course.
+Team members: Harri Nupponen, Valtteri Nummi, Topi Nummi
 ## Ingredients
 - ESP32 (Node MCU)
 - TCS34725 Color Sensor
